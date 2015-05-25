@@ -1,0 +1,97 @@
+/** CSS for Login Box **/
+body{
+	
+}
+
+#contianer{ margin-left:auto; margin-right:auto; width:400px;}
+#error{color:#ff0000; font-size:13px}
+div.wrapper{
+	background-image:url(../images/login/bg.gif); /* our wrapper bg image */
+	background-repeat:no-repeat; /*we dont want this image to repeat ever! */
+	width:348px; /*width of the image */
+	height:384px; /* height of image */
+	margin-left:4px; /* margin from left side of screen*/
+	padding-top:25px; /* used to position rest of content below ribbon */
+}
+
+div.ribbon{
+	background-image:url(../images/login/ribbon.png) !important; /* our ribbon image */
+	background-repeat:no-repeat;	/* no repeating of image */
+	width:358px;	/* width of image */
+	height:45px;	/* height of image */
+	float:left;	/* float this image to the left */
+	padding-left:25px;	/* text padding left */
+	padding-top:5px;	/* text padding above text */
+	color:#ffffff;	/* text color */
+	font-weight:bold; /*text weight */
+	font-size:13px;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=noscale, src="../images/login/ribbon.png"); /* IE6 css bug */
+	background-image:none;
+}
+
+div.logo{
+	background:url(../images/login/logo.png) no-repeat !important; /* combined background attribute */
+	width:330px;
+	height:115px;
+	margin-top:45px !important;
+	+margin-top:-15px !important;/*ie7 bug*/
+	margin-top:-25px; /*ie6 bug*/
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=noscale, src="../images/login/logo.png"); /* IE6 css bug */
+	background:none;
+}
+
+/** Login Block **/
+div.loginwrapper{
+	margin-left:40px;
+}
+span.usertext{
+	color:#478fab;
+	font-weight:bold;
+}
+
+input.textbox{
+	background:url(../images/login/text_field.png) 0px -25px;
+	width:264px;
+	height:20px;
+	border:0px;
+	padding-top:5px;
+	padding-left:4px;
+}
+input.textbox:hover{
+	background:url(../images/login/text_field.png) 0px 0px;
+	border:0px;
+}
+
+div.bottomwrapper{
+	margin-left:40px;
+	margin-top:50px;
+}
+/** Links CSS **/
+
+a:link, a:visited{
+	color:#ffffff;
+	text-decoration:none;
+}
+a:hover{
+	color:#95ddf9;
+}
+
+/** Button CSS **/
+input.button{
+	background:url(../images/login/login_btn.png) !important;
+	width:92px;
+	height:28px;
+	border:0px;
+	float:right;
+	margin-right:60px;
+	margin-top:5px;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=noscale, src="../images/login/login_btn.png"); /* IE6 css bug */
+	background:none;	
+	cursor:hand;/* ie6 */
+}
+input.button:hover{
+	cursor:pointer;
+}
+input.button:active{
+	cursor:pointer;
+}

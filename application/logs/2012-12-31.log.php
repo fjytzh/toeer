@@ -1,0 +1,29 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2012-12-31 07:07:24 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:07:28 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:07:28 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:07:29 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:07:31 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:07:32 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, article/class/getListJson, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:07:32 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:08:04 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:08:07 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:08:18 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, article/class/getListJson, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:08:19 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:10:07 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:10:07 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, article/class/getListJson, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:10:20 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:10:22 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:10:39 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:10:48 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:10:50 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:05 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:08 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:09 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:10 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:10 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:10 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:10 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:11 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
+2012-12-31 07:11:11 +00:00 --- error: Uncaught Kohana_404_Exception: The page you requested, favicon.ico, could not be found. in file F:/site/toeer/system/core/Kohana.php on line 843
